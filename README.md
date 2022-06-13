@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://AlexYeii.github.io/rsschool-cv/cv
+https://AlexYeii.github.io/rsschool-cv
